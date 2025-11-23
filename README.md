@@ -4,8 +4,6 @@ This project focuses on developing a robust disease-symptom prediction system le
 
 
 
-Data sourced from : "https://github.com/clinicalml/HealthKnowledgeGraph"
-
 Key Techniques:
 
 Knowledge Graphs: Structured representations of entities (diseases, symptoms) and their relationships.
