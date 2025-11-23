@@ -1,0 +1,702 @@
+[
+  {
+    "Diseases": "Heart disease",
+    "Symptoms": "chest pain 0.22, breathlessness 0.19, sweating 0.17, nausea 0.15, arm pain 0.11, palpitations 0.09, myalgia 0.07"
+  },
+  {
+    "Diseases": "Stroke",
+    "Symptoms": "sudden weakness 0.21, facial droop 0.18, slurred speech 0.16, confusion 0.14, vision problems 0.11, headache 0.09, dizziness 0.07, loss of balance 0.04"
+  },
+  {
+    "Diseases": "Chronic obstructive pulmonary disease",
+    "Symptoms": "cough 0.21, breathlessness 0.18, sputum production 0.16, wheeze 0.14, fatigue 0.11, chest tightness 0.09, appetite loss 0.07, weight loss 0.04"
+  },
+  {
+    "Diseases": "Pneumonia",
+    "Symptoms": "fever 0.21, cough 0.18, breathlessness 0.16, pleuritic chest pain 0.14, tachypnea 0.11, fatigue 0.09, chills 0.07, confusion 0.04"
+  },
+  {
+    "Diseases": "Lung cancer",
+    "Symptoms": "persistent cough 0.27, coughing up blood 0.23, chest pain 0.18, breathlessness 0.13, weight loss 0.11, fatigue 0.08"
+  },
+  {
+    "Diseases": "Colorectal cancer",
+    "Symptoms": "change in bowel habits 0.27, rectal bleeding 0.23, abdominal pain 0.18, fatigue 0.13, weight loss 0.11, feeling of incomplete evacuation 0.08"
+  },
+  {
+    "Diseases": "Prostate cancer",
+    "Symptoms": "urinary difficulties 0.24, blood in urine 0.2, bone pain 0.18, difficulty achieving erection 0.16, weight loss 0.12, back or hip pain 0.1"
+  },
+  {
+    "Diseases": "Type 2 diabetes",
+    "Symptoms": "polyuria 0.24, polydipsia 0.2, fatigue 0.18, blurred vision 0.16, slow wound healing 0.12, tingling in feet 0.1"
+  },
+  {
+    "Diseases": "Chronic kidney disease",
+    "Symptoms": "fatigue 0.24, swelling in legs 0.2, nausea 0.18, breathlessness 0.16, itchy skin 0.12, changes in urine output 0.1"
+  },
+  {
+    "Diseases": "Major depressive disorder",
+    "Symptoms": "sadness 0.3, anhedonia 0.22, insomnia 0.16, changes in appetite/weight 0.14, fatigue 0.1, difficulty concentrating 0.08"
+  },
+  {
+    "Diseases": "Tuberculosis",
+    "Symptoms": "cough 0.21, night sweats 0.18, weight loss 0.16, fever 0.14, chest pain 0.11, hemoptysis 0.09, fatigue 0.07, chills 0.04"
+  },
+  {
+    "Diseases": "HIV/AIDS",
+    "Symptoms": "fever 0.22, weight loss 0.19, night sweats 0.17, lymphadenopathy 0.15, diarrhoea 0.11, fatigue 0.09, recurrent infections 0.07"
+  },
+  {
+    "Diseases": "Malaria",
+    "Symptoms": "fever 0.22, chills 0.19, sweating 0.17, headache 0.15, myalgia 0.11, nausea 0.09, vomiting 0.07"
+  },
+  {
+    "Diseases": "Diarrhoeal diseases",
+    "Symptoms": "loose stools 0.24, dehydration 0.2, stomach pain 0.18, fever 0.16, nausea 0.12, vomiting 0.1"
+  },
+  {
+    "Diseases": "Neonatal disorders",
+    "Symptoms": "breathlessness 0.25, poor feeding 0.2, lethargy / hypotonia 0.18, fever or temperature instability 0.15, jaundice 0.12, seizures 0.1"
+  },
+  {
+    "Diseases": "Road traffic injuries",
+    "Symptoms": "bleeding 0.26, fainting 0.24, fracture deformity 0.21, breathlessness 0.16, shock 0.13"
+  },
+  {
+    "Diseases": "Suicide",
+    "Symptoms": "thoughts of death 0.24, suicidal ideation 0.2, behavior change 0.18, mood swings 0.16, withdrawal 0.12, substance misuse 0.1"
+  },
+  {
+    "Diseases": "Cirrhosis",
+    "Symptoms": "jaundice 0.21, ascites 0.18, fatigue 0.16, easy bruising 0.14, weight loss 0.11, confusion 0.09, itchy skin 0.07, nausea 0.04"
+  },
+  {
+    "Diseases": "Asthma",
+    "Symptoms": "wheeze 0.28, breathlessness 0.24, chest tightness 0.18, cough 0.16, triggered by allergens 0.14"
+  },
+  {
+    "Diseases": "Sepsis",
+    "Symptoms": "fever 0.24, tachycardia 0.2, tachypnea 0.18, confusion 0.16, low blood pressure 0.12, low urine output 0.1"
+  },
+  {
+    "Diseases": "Pancreatic cancer",
+    "Symptoms": "jaundice 0.27, abdominal pain 0.23, weight loss 0.18, nausea 0.13, loss of appetite 0.11, fatigue 0.08"
+  },
+  {
+    "Diseases": "Ovarian cancer",
+    "Symptoms": "abdominal bloating 0.29, pelvic pain 0.24, feeling full quickly 0.2, urinary urgency 0.15, fatigue 0.12"
+  },
+  {
+    "Diseases": "Cervical cancer",
+    "Symptoms": "abnormal vaginal bleeding 0.27, pelvic pain 0.23, pain during intercourse 0.18, vaginal discharge 0.13, weight loss 0.11, fatigue 0.08"
+  },
+  {
+    "Diseases": "Leukaemia",
+    "Symptoms": "fatigue 0.25, frequent infections 0.21, easy bruising 0.17, fever 0.13, bone pain 0.11, weight loss 0.08, night sweats 0.05"
+  },
+  {
+    "Diseases": "Lymphoma",
+    "Symptoms": "swollen lymph nodes 0.27, fatigue 0.23, fever 0.18, night sweats 0.13, weight loss 0.11, itchy skin 0.08"
+  },
+  {
+    "Diseases": "Kidney cancer",
+    "Symptoms": "blood in urine 0.27, flank pain 0.23, fatigue 0.18, weight loss 0.13, fever 0.11, loss of appetite 0.08"
+  },
+  {
+    "Diseases": "Oral cancer",
+    "Symptoms": "mouth sore that doesn't heal 0.25, lump in the cheek 0.21, white or red patch on gums 0.17, difficulty swallowing 0.13, weight loss 0.11, bad breath 0.08"
+  },
+  {
+    "Diseases": "Abscess",
+    "Symptoms": "localized pain 0.24, redness 0.2, swelling 0.18, warmth 0.16, fever 0.12, pus/drainage 0.1"
+  },
+  {
+    "Diseases": "Alcohol use disorders",
+    "Symptoms": "impaired consciousness 0.24, respiratory depression 0.2, seizures 0.18, nausea 0.16, withdrawal symptoms 0.12, behavior change 0.1"
+  },
+  {
+    "Diseases": "Drug overdose",
+    "Symptoms": "impaired consciousness 0.22, respiratory depression 0.19, seizures 0.17, nausea 0.15, withdrawal symptoms 0.11, behavior change 0.09, confusion 0.07"
+  },
+  {
+    "Diseases": "Peripheral vascular disease",
+    "Symptoms": "leg pain with walking 0.3, cool or pale extremity 0.2, weak/absent distal pulses 0.18, non-healing ulcers 0.16, rest pain or gangrene in severe cases 0.16"
+  },
+  {
+    "Diseases": "Rheumatic heart disease",
+    "Symptoms": "fever 0.21, joint pain 0.18, breathlessness 0.16, heart murmur 0.14, fatigue 0.11, chest pain 0.09, rash 0.07, palpitations 0.04"
+  },
+  {
+    "Diseases": "Osteoarthritis",
+    "Symptoms": "joint pain 0.3, joint stiffness 0.24, reduced range of motion 0.18, bony enlargement / crepitus 0.14, localized swelling 0.14"
+  },
+  {
+    "Diseases": "Parkinson's disease",
+    "Symptoms": "tremor 0.24, rigidity 0.2, bradykinesia 0.18, postural instability 0.16, cognitive changes 0.12, shuffling gait 0.1"
+  },
+  {
+    "Diseases": "Chagas disease",
+    "Symptoms": "fever 0.24, fatigue 0.2, swelling at bite site 0.18, cardiac arrhythmia 0.16, heart failure 0.12, difficulty swallowing 0.1"
+  },
+  {
+    "Diseases": "Malnutrition",
+    "Symptoms": "failure to thrive 0.22, weight loss 0.19, lethargy 0.17, stunted growth 0.15, recurrent infections 0.11, edema 0.09, muscle wasting 0.07"
+  },
+  {
+    "Diseases": "Heat-related illness",
+    "Symptoms": "heat exhaustion 0.21, dizziness 0.18, weakness 0.16, nausea 0.14, confusion 0.11, fainting 0.09, excessive sweating 0.07, muscle cramps 0.04"
+  },
+  {
+    "Diseases": "Bacterial infections",
+    "Symptoms": "fever 0.21, localized pain 0.18, redness 0.16, swelling 0.14, fatigue 0.11, pus/discharge 0.09, chills 0.07, confusion 0.04"
+  },
+  {
+    "Diseases": "Appendicitis",
+    "Symptoms": "abdominal pain 0.21, nausea 0.18, vomiting 0.16, fever 0.14, loss of appetite 0.11, rebound tenderness 0.09, constipation 0.07, diarrhea 0.04"
+  },
+  {
+    "Diseases": "Hypertension",
+    "Symptoms": "headache 0.22, dizziness 0.19, blurred vision 0.17, chest pain 0.15, nosebleeds 0.11, shortness of breath 0.09, palpitations 0.07"
+  },
+  {
+    "Diseases": "Migraine",
+    "Symptoms": "headache 0.24, nausea 0.2, sensitivity to sunlight 0.18, sensitivity to sound 0.16, dizziness 0.13"
+  },
+  {
+    "Diseases": "Anemia",
+    "Symptoms": "fatigue 0.21, pale skin 0.18, dizziness 0.16, breathlessness 0.14, headache 0.11, cold hands and feet 0.09, chest pain 0.07, weakness 0.04"
+  },
+  {
+    "Diseases": "Epilepsy",
+    "Symptoms": "seizures 0.24, confusion 0.2, loss of consciousness 0.18, staring spells 0.16, headache 0.12, fatigue 0.1"
+  },
+  {
+    "Diseases": "Gastritis",
+    "Symptoms": "stomach pain 0.24, bloating 0.2, nausea 0.18, vomiting 0.16, indigestion 0.12, loss of appetite 0.1"
+  },
+  {
+    "Diseases": "Hepatitis B",
+    "Symptoms": "fatigue 0.21, jaundice 0.18, stomach pain 0.16, nausea 0.14, weakness 0.11, fever 0.09, dark urine 0.07, joint pain 0.04"
+  },
+  {
+    "Diseases": "Hepatitis C",
+    "Symptoms": "fatigue 0.21, jaundice 0.18, stomach pain 0.16, dark urine 0.14, nausea 0.11, fever 0.09, loss of appetite 0.07, joint pain 0.04"
+  },
+  {
+    "Diseases": "Kidney Stones",
+    "Symptoms": "Lower back pain 0.28, radiating groin pain 0.24, hematuria 0.2, nausea 0.15, vomiting 0.13"
+  },
+  {
+    "Diseases": "Urinary Tract Infection",
+    "Symptoms": "dysuria 0.25, urinary frequency 0.23, urgency 0.2, stomach pain 0.18, cloudy urine 0.14"
+  },
+  {
+    "Diseases": "Gout",
+    "Symptoms": "joint pain 0.22, swelling 0.19, redness 0.17, stiffness 0.15, warmth in the joint 0.11, tenderness 0.09"
+  },
+  {
+    "Diseases": "Psoriasis",
+    "Symptoms": "red patches 0.22, silvery scales 0.19, itching 0.17, dry skin 0.15, burning 0.11, thickened nails 0.09, joint stiffness 0.07"
+  },
+  {
+    "Diseases": "Eczema",
+    "Symptoms": "itching 0.22, redness 0.19, dry skin 0.17, rash 0.15, swelling 0.11, oozing 0.09, crusting 0.07"
+  },
+  {
+    "Diseases": "Lupus",
+    "Symptoms": "fatigue 0.21, joint pain 0.18, rash 0.16, fever 0.14, chest pain 0.11, hair loss 0.09, sensitivity to sunlight 0.07, mouth sores 0.04"
+  },
+  {
+    "Diseases": "Multiple Sclerosis",
+    "Symptoms": "weakness 0.21, numbness 0.18, balance issues 0.16, vision problems 0.14, dizziness 0.11, fatigue 0.09, muscle spasms 0.07, tremors 0.04"
+  },
+  {
+    "Diseases": "Alzheimer's Disease",
+    "Symptoms": "memory loss 0.24, confusion 0.2, disorientation 0.18, mood swings 0.16, difficulty with language 0.12, loss of motivation 0.1"
+  },
+  {
+    "Diseases": "Rheumatoid Arthritis",
+    "Symptoms": "joint pain 0.24, swelling 0.2, fatigue 0.18, stiffness 0.16, warmth 0.12, loss of joint function 0.1"
+  },
+  {
+    "Diseases": "Influenza",
+    "Symptoms": "fever 0.22, body ache 0.19, cough 0.17, sore throat 0.15, headache 0.11, fatigue 0.09, runny nose 0.07"
+  },
+  {
+    "Diseases": "Chickenpox",
+    "Symptoms": "rash 0.36, fever 0.22, itching 0.16, fatigue 0.14, sensitivity to sunlight 0.12"
+  },
+  {
+    "Diseases": "Measles",
+    "Symptoms": "rash 0.24, fever 0.2, cough 0.18, conjunctivitis 0.16, runny nose 0.12, Koplik's spots 0.1"
+  },
+  {
+    "Diseases": "Mumps",
+    "Symptoms": "swollen salivary glands 0.24, fever 0.2, headache 0.18, fatigue 0.16, muscle pain 0.12, loss of appetite 0.1"
+  },
+  {
+    "Diseases": "COVID-19",
+    "Symptoms": "fever 0.21, cough 0.18, anosmia 0.16, fatigue 0.14, headache 0.11, breathlessness 0.09, sore throat 0.07, muscle ache 0.04"
+  },
+  {
+    "Diseases": "Pneumothorax",
+    "Symptoms": "sudden chest pain 0.21, breathlessness 0.18, tachypnea 0.16, fatigue 0.14, rapid heart rate 0.11, cough 0.09, cyanosis 0.07"
+  },
+  {
+    "Diseases": "Hernia",
+    "Symptoms": "bulge 0.2673, discomfort 0.2079, swelling 0.1881, pain with lifting 0.1386, heavy sensation 0.1089, aching 0.0891"
+  },
+  {
+    "Diseases": "Pancreatitis",
+    "Symptoms": "severe stomach pain 0.3, nausea 0.22, vomiting 0.2, fever 0.16, abdominal tenderness 0.12"
+  },
+  {
+    "Diseases": "Celiac Disease",
+    "Symptoms": "diarrhea 0.21, bloating 0.18, fatigue 0.16, weight loss 0.14, abdominal pain 0.11, constipation 0.09, vomiting 0.07, itchy rash 0.04"
+  },
+  {
+    "Diseases": "Crohn's Disease",
+    "Symptoms": "abdominal pain 0.25, chronic diarrhea 0.23, weight loss 0.2, fatigue 0.17, fever 0.15"
+  },
+  {
+    "Diseases": "Ulcerative Colitis",
+    "Symptoms": "diarrhea with blood 0.27, abdominal pain 0.23, urgency 0.2, tenesmus 0.16, fatigue 0.14"
+  },
+  {
+    "Diseases": "Breast Cancer",
+    "Symptoms": "breast lump 0.2574, nipple discharge 0.198, swelling 0.1683, skin dimpling 0.1287, nipple retraction 0.1089, breast pain 0.0891, lymph node swelling 0.0495"
+  },
+  {
+    "Diseases": "Skin Cancer",
+    "Symptoms": "new skin lesion 0.24, change in existing mole 0.2, itching 0.18, bleeding 0.16, non-healing sore 0.12, redness 0.1"
+  },
+  {
+    "Diseases": "Tonsillitis",
+    "Symptoms": "sore throat 0.21, fever 0.18, swollen tonsils 0.16, difficulty swallowing 0.14, swollen lymph nodes 0.11, headache 0.09, bad breath 0.07, voice changes 0.04"
+  },
+  {
+    "Diseases": "Sinusitis",
+    "Symptoms": "facial pain 0.22, nasal congestion 0.19, headache 0.17, postnasal drip 0.15, fever 0.11, cough 0.09, reduced smell 0.07"
+  },
+  {
+    "Diseases": "Conjunctivitis",
+    "Symptoms": "red eyes 0.22, itching 0.19, tearing 0.17, discharge 0.15, gritty feeling 0.11, crusting of eyelids 0.09, sensitivity to sunlight 0.07"
+  },
+  {
+    "Diseases": "Otitis Media",
+    "Symptoms": "ear pain 0.21, hearing loss 0.18, fever 0.16, irritability 0.14, fluid drainage 0.11, difficulty sleeping 0.09, loss of balance 0.07, headache 0.04"
+  },
+  {
+    "Diseases": "Depression",
+    "Symptoms": "sadness 0.24, loss of interest 0.2, fatigue 0.18, insomnia 0.16, change in appetite 0.12, feelings of worthlessness 0.1"
+  },
+  {
+    "Diseases": "Anxiety Disorder",
+    "Symptoms": "excessive worry 0.24, restlessness 0.2, fatigue 0.18, irritability 0.16, sweating 0.12, muscle tension 0.1"
+  },
+  {
+    "Diseases": "Type 1 diabetes",
+    "Symptoms": "polyuria 0.1881, polydipsia 0.1683, polyphagia 0.1485, weight loss 0.1287, fatigue 0.1089, blurred vision 0.0891, ketoacidosis 0.0693, nausea 0.0594"
+  },
+  {
+    "Diseases": "Primary hyperlipidemia",
+    "Symptoms": "usually asymptomatic 0.6, xanthomas 0.2, xanthelasma 0.1, chest pain (if CAD develops) 0.1"
+  },
+  {
+    "Diseases": "Coronary artery disease",
+    "Symptoms": "chest pain 0.21, breathlessness 0.18, arm pain 0.16, nausea 0.14, sweating 0.11, dizziness 0.09, fatigue 0.07, palpitations 0.04"
+  },
+  {
+    "Diseases": "Peripheral arterial disease",
+    "Symptoms": "leg pain with walking 0.24, leg pain at rest 0.21, cool skin 0.19, non-healing sores 0.13, weak pulse 0.1, color changes 0.08, numbness 0.05"
+  },
+  {
+    "Diseases": "Congestive heart failure",
+    "Symptoms": "breathlessness 0.23, fatigue 0.2, leg swelling 0.18, persistent cough 0.14, weight gain 0.11, increased urination at night 0.09, rapid heart rate 0.05"
+  },
+  {
+    "Diseases": "Endocarditis",
+    "Symptoms": "fever 0.21, heart murmur 0.18, fatigue 0.16, night sweats 0.14, breathlessness 0.11, joint pain 0.09, weight loss 0.07, petechiae 0.04"
+  },
+  {
+    "Diseases": "Myocarditis",
+    "Symptoms": "chest pain 0.21, breathlessness 0.18, fatigue 0.16, heart palpitations 0.14, fever 0.11, leg swelling 0.09, flu-like symptoms 0.07"
+  },
+  {
+    "Diseases": "Pericarditis",
+    "Symptoms": "chest pain 0.24, fever 0.2, breathlessness 0.18, heart palpitations 0.16, fatigue 0.1, cough 0.08, leg swelling 0.04"
+  },
+  {
+    "Diseases": "Aortic aneurysm",
+    "Symptoms": "often asymptomatic 0.4, back pain 0.18, abdominal pain 0.16, pulsating sensation 0.14, chest pain 0.11, coughing 0.09, hoarseness 0.07"
+  },
+  {
+    "Diseases": "Deep vein thrombosis",
+    "Symptoms": "unilateral leg swelling 0.3, calf or thigh pain / tenderness 0.26, warmth and erythema over vein 0.22, prominent superficial veins 0.12, chest pain (if PE) 0.1"
+  },
+  {
+    "Diseases": "Pulmonary embolism",
+    "Symptoms": "sudden breathlessness 0.24, chest pain 0.2, cough 0.18, rapid heart rate 0.16, lightheadedness 0.1, leg swelling 0.08, coughing up blood 0.04"
+  },
+  {
+    "Diseases": "Varicose veins",
+    "Symptoms": "visible dilated superficial veins 0.3, leg aching or heaviness 0.24, worse with standing, improved with elevation 0.18, swelling (mild) 0.14, skin changes/ulceration in chronic cases 0.14"
+  },
+  {
+    "Diseases": "Hemorrhoids",
+    "Symptoms": "painless rectal bleeding with defecation 0.3, perianal pain (especially thrombosed) 0.24, prolapse or bulge from anus 0.2, mucus discharge / itching 0.14, tenesmus or sensation of incomplete evacuation 0.12"
+  },
+  {
+    "Diseases": "Pernicious anemia",
+    "Symptoms": "fatigue 0.21, weakness 0.18, pale skin 0.16, shortness of breath 0.14, numbness 0.11, confusion 0.09, dizziness 0.07, loss of appetite 0.04"
+  },
+  {
+    "Diseases": "Sickle cell disease",
+    "Symptoms": "pain crises 0.21, fatigue 0.18, breathlessness 0.16, jaundice 0.14, swelling in hands/feet 0.11, frequent infections 0.09, delayed growth 0.07"
+  },
+  {
+    "Diseases": "Thalassemia",
+    "Symptoms": "fatigue 0.22, weakness 0.19, pale skin 0.17, breathlessness 0.15, jaundice 0.11, abdominal swelling 0.09, dark urine 0.07"
+  },
+  {
+    "Diseases": "Multiple myeloma",
+    "Symptoms": "bone pain 0.21, fatigue 0.18, frequent infections 0.16, breathlessness 0.14, nausea 0.11, weight loss 0.09, confusion 0.07, excessive thirst 0.04"
+  },
+  {
+    "Diseases": "Myelodysplastic syndrome",
+    "Symptoms": "fatigue 0.21, breathlessness 0.18, easy bruising 0.16, frequent infections 0.14, weakness 0.11, pale skin 0.09, fever 0.07, weight loss 0.04"
+  },
+  {
+    "Diseases": "Hemophilia",
+    "Symptoms": "easy bruising 0.25, prolonged bleeding 0.21, joint pain and swelling 0.17, spontaneous bleeding 0.13, blood in urine/stool 0.11, excessive bleeding from cuts 0.08, fatigue 0.05"
+  },
+  {
+    "Diseases": "Von Willebrand disease",
+    "Symptoms": "easy bruising 0.24, heavy menstrual bleeding 0.21, frequent nosebleeds 0.19, prolonged bleeding 0.13, blood in urine/stool 0.1, fatigue 0.08, anemia 0.05"
+  },
+  {
+    "Diseases": "Ankylosing spondylitis",
+    "Symptoms": "chronic back pain 0.21, stiffness 0.18, fatigue 0.16, pain in other joints 0.14, difficulty expanding chest 0.11, weight loss 0.09, eye inflammation 0.07, loss of appetite 0.04"
+  },
+  {
+    "Diseases": "Sjögren's syndrome",
+    "Symptoms": "dry eyes 0.23, dry mouth 0.19, fatigue 0.17, joint pain 0.15, dry skin 0.12, cough 0.1, swollen salivary glands 0.04"
+  },
+  {
+    "Diseases": "Scleroderma",
+    "Symptoms": "skin thickening 0.24, Raynaud's phenomenon 0.21, joint pain 0.19, heartburn 0.13, shortness of breath 0.1, digestive difficulties 0.08, fatigue 0.05"
+  },
+  {
+    "Diseases": "Polymyositis",
+    "Symptoms": "muscle weakness 0.23, difficulty swallowing 0.2, fatigue 0.18, muscle pain 0.15, shortness of breath 0.12, fever 0.08, weight loss 0.04"
+  },
+  {
+    "Diseases": "Dermatomyositis",
+    "Symptoms": "skin rash 0.21, muscle weakness 0.18, fatigue 0.16, difficulty swallowing 0.14, muscle pain 0.11, joint pain 0.09, fever 0.07, weight loss 0.04"
+  },
+  {
+    "Diseases": "Fibromyalgia",
+    "Symptoms": "diffuse musculoskeletal pain 0.3, fatigue 0.24, insomnia 0.18, cognitive complaints ('fibro fog') 0.16, widespread tender points 0.12"
+  },
+  {
+    "Diseases": "Osteoporosis",
+    "Symptoms": "usually asymptomatic 0.5, back pain 0.18, loss of height 0.16, stooped posture 0.14, bone fracture 0.11"
+  },
+  {
+    "Diseases": "Paget's disease of bone",
+    "Symptoms": "bone pain 0.36, bone deformity or enlargement 0.22, hearing loss 0.14, increased warmth over affected bone 0.14, pathologic fractures 0.14"
+  },
+  {
+    "Diseases": "Osteomyelitis",
+    "Symptoms": "bone pain 0.25, fever 0.21, swelling 0.17, warmth 0.13, redness 0.11, fatigue 0.08, chills 0.05"
+  },
+  {
+    "Diseases": "Scurvy",
+    "Symptoms": "fatigue 0.23, swollen gums 0.2, joint pain 0.18, bruising 0.15, anemia 0.12, skin spots 0.08, tooth loss 0.04"
+  },
+  {
+    "Diseases": "Rickets (vitamin D deficiency)",
+    "Symptoms": "delayed growth / bowed legs in children 0.34, bone pain 0.24, dental defects 0.16, muscle weakness 0.14, hypocalcemic seizures in severe cases 0.12"
+  },
+  {
+    "Diseases": "Beriberi",
+    "Symptoms": "difficulty walking 0.22, loss of sensation 0.19, muscle weakness 0.17, confusion 0.15, shortness of breath 0.11, swelling 0.09, rapid heart rate 0.07"
+  },
+  {
+    "Diseases": "Pellagra (niacin deficiency)",
+    "Symptoms": "diarrhea 0.22, dermatitis 0.19, dementia 0.17, weakness 0.15, confusion 0.11, aggression 0.09, insomnia 0.07"
+  },
+  {
+    "Diseases": "Hypothyroidism",
+    "Symptoms": "fatigue 0.26, weight gain 0.22, cold intolerance 0.18, constipation 0.14, hair loss 0.1, menorrhagia or irregular menses 0.1"
+  },
+  {
+    "Diseases": "Hyperthyroidism",
+    "Symptoms": "weight loss 0.26, palpitations / tachycardia 0.22, heat intolerance / sweating 0.18, tremor / nervousness 0.18, increased bowel movements 0.1, irregular menses or oligomenorrhea 0.06"
+  },
+  {
+    "Diseases": "Hashimoto's thyroiditis",
+    "Symptoms": "fatigue 0.21, weight gain 0.18, cold intolerance 0.16, constipation 0.14, depression 0.11, muscle weakness 0.09, joint pain 0.07, puffy face 0.04"
+  },
+  {
+    "Diseases": "Graves' disease",
+    "Symptoms": "anxiety 0.23, irritability 0.2, tremor 0.18, heat intolerance 0.15, weight loss 0.12, enlarged thyroid 0.08, bulging eyes 0.04"
+  },
+  {
+    "Diseases": "Cushing's syndrome",
+    "Symptoms": "weight gain 0.24, fatty hump 0.21, rounded face 0.19, stretch marks 0.13, high blood pressure 0.1, muscle weakness 0.08, fatigue 0.05"
+  },
+  {
+    "Diseases": "Addison's disease",
+    "Symptoms": "fatigue 0.3, weight loss 0.2, hyperpigmentation 0.18, salt craving 0.16, dizziness 0.16"
+  },
+  {
+    "Diseases": "Primary adrenal insufficiency",
+    "Symptoms": "fatigue 0.21, weakness 0.18, nausea 0.16, weight loss 0.14, low blood pressure 0.11, abdominal pain 0.09, salt craving 0.07, darkening of skin 0.04"
+  },
+  {
+    "Diseases": "Pheochromocytoma",
+    "Symptoms": "high blood pressure 0.24, headache 0.2, sweating 0.18, rapid heart rate 0.16, palpitations 0.1, anxiety 0.08, tremors 0.04"
+  },
+  {
+    "Diseases": "Polycystic ovary syndrome",
+    "Symptoms": "irregular menses 0.3, hirsutism 0.24, acne 0.18, weight gain 0.16, infertility 0.12"
+  },
+  {
+    "Diseases": "Endometriosis",
+    "Symptoms": "pelvic pain 0.21, painful periods 0.18, pain during intercourse 0.16, infertility 0.14, fatigue 0.11, heavy periods 0.09, bloating 0.07, nausea 0.04"
+  },
+  {
+    "Diseases": "Ovarian cyst",
+    "Symptoms": "pelvic pain 0.34, bloating 0.26, pain during intercourse 0.18, irregular menstrual bleeding 0.12, sudden severe pain if torsion or rupture 0.1"
+  },
+  {
+    "Diseases": "Pelvic inflammatory disease",
+    "Symptoms": "pelvic pain 0.25, fever 0.21, unusual discharge 0.17, pain during intercourse 0.13, irregular bleeding 0.11, painful urination 0.08, fatigue 0.05"
+  },
+  {
+    "Diseases": "Prostatitis",
+    "Symptoms": "pelvic pain 0.25, painful urination 0.22, frequent urination 0.2, pain during ejaculation 0.18, fever or chills 0.15"
+  },
+  {
+    "Diseases": "Benign prostatic hyperplasia",
+    "Symptoms": "weak urine stream 0.25, hesitancy 0.2, frequent urination at night 0.18, urgency 0.18, feeling of incomplete emptying 0.19"
+  },
+  {
+    "Diseases": "Erectile dysfunction",
+    "Symptoms": "difficulty achieving erection 0.28, difficulty maintaining erection 0.25, reduced sexual desire 0.2, performance anxiety 0.15, relationship stress 0.12"
+  },
+  {
+    "Diseases": "Acute kidney injury",
+    "Symptoms": "decreased urine output 0.28, leg swelling 0.24, fatigue 0.2, confusion 0.16, nausea 0.12"
+  },
+  {
+    "Diseases": "Glomerulonephritis",
+    "Symptoms": "blood in urine 0.25, foamy urine 0.22, facial swelling 0.2, decreased urine output 0.18, high blood pressure 0.15"
+  },
+  {
+    "Diseases": "Nephrotic syndrome",
+    "Symptoms": "leg swelling 0.26, foamy urine 0.24, weight gain 0.2, fatigue 0.16, loss of appetite 0.14"
+  },
+  {
+    "Diseases": "Pyelonephritis",
+    "Symptoms": "fever 0.26, flank pain 0.23, painful urination 0.2, nausea 0.17, vomiting 0.14"
+  },
+  {
+    "Diseases": "Gastroesophageal reflux disease",
+    "Symptoms": "heartburn 0.26, acid regurgitation 0.24, chest pain 0.2, worse when lying down 0.16, chronic cough 0.14"
+  },
+  {
+    "Diseases": "Irritable bowel syndrome",
+    "Symptoms": "abdominal pain 0.25, bloating 0.22, change in stool form 0.2, change in stool frequency 0.18, relief after defecation 0.15"
+  },
+  {
+    "Diseases": "Diverticulitis",
+    "Symptoms": "abdominal pain 0.26, fever 0.23, nausea 0.19, vomiting 0.17, change in bowel habits 0.15"
+  },
+  {
+    "Diseases": "Chronic pancreatitis",
+    "Symptoms": "abdominal pain 0.23, weight loss 0.2, steatorrhea 0.18, nausea 0.15, loss of appetite 0.12, diabetes 0.08, jaundice 0.04"
+  },
+  {
+    "Diseases": "Cholecystitis",
+    "Symptoms": "abdominal pain 0.27, fever 0.24, nausea 0.19, vomiting 0.16, positive murphy sign 0.14"
+  },
+  {
+    "Diseases": "Gallstones",
+    "Symptoms": "sudden ruq or epigastric pain (biliary colic) 0.36, pain radiating to right shoulder/back 0.22, nausea and vomiting 0.18, postprandial pain after fatty meals 0.14, fever if cholecystitis/complication 0.1"
+  },
+  {
+    "Diseases": "Hepatitis A",
+    "Symptoms": "fatigue 0.23, nausea 0.2, abdominal pain 0.18, loss of appetite 0.15, fever 0.12, dark urine 0.08, jaundice 0.04"
+  },
+  {
+    "Diseases": "Nonalcoholic fatty liver disease",
+    "Symptoms": "usually asymptomatic 0.5, fatigue 0.23, pain in upper right abdomen 0.19, weight loss 0.17"
+  },
+  {
+    "Diseases": "Alcoholic liver disease",
+    "Symptoms": "fatigue 0.2574, jaundice 0.198, abdominal pain 0.1683, nausea 0.1287, weight loss 0.1089, loss of appetite 0.0891, swelling in legs 0.0495"
+  },
+  {
+    "Diseases": "Hepatocellular carcinoma",
+    "Symptoms": "abdominal pain 0.21, weight loss 0.18, loss of appetite 0.16, nausea 0.14, fatigue 0.11, jaundice 0.09, abdominal swelling 0.07, fever 0.04"
+  },
+  {
+    "Diseases": "Common Cold",
+    "Symptoms": "nasal congestion / runny nose 0.3, sore throat 0.22, sneezing 0.18, cough 0.16, mild headache / low-grade fever 0.14"
+  },
+  {
+    "Diseases": "Rubella",
+    "Symptoms": "rash 0.23, fever 0.2, swollen lymph nodes 0.18, runny nose 0.14, headache 0.11, joint pain 0.09, red eyes 0.05"
+  },
+  {
+    "Diseases": "Shingles",
+    "Symptoms": "rash 0.21, itching 0.18, burning 0.16, fever 0.14, headache 0.11, fatigue 0.09, sensitivity to sunlight 0.07"
+  },
+  {
+    "Diseases": "Herpes",
+    "Symptoms": "painful blisters 0.21, itching 0.18, burning 0.16, flu-like symptoms 0.14, swollen lymph nodes 0.11, pain during urination 0.09, headache 0.07"
+  },
+  {
+    "Diseases": "HPV",
+    "Symptoms": "often asymptomatic 0.5, genital warts 0.23, abnormal pap smear 0.2, itching 0.18"
+  },
+  {
+    "Diseases": "Molluscum contagiosum",
+    "Symptoms": "small bumps on skin 0.21, itching 0.18, redness 0.16, can spread by scratching 0.14"
+  },
+  {
+    "Diseases": "Hand foot and mouth disease",
+    "Symptoms": "fever 0.25, mouth sores 0.21, skin rash 0.17, loss of appetite 0.13, sore throat 0.11, headache 0.08, irritability 0.05"
+  },
+  {
+    "Diseases": "Pertussis (whooping cough)",
+    "Symptoms": "severe coughing 0.24, whooping sound 0.21, runny nose 0.19, fever 0.13, vomiting after coughing 0.1, apnea 0.08, fatigue 0.05"
+  },
+  {
+    "Diseases": "Leprosy",
+    "Symptoms": "skin lesions 0.21, numbness 0.18, muscle weakness 0.16, eye problems 0.14, nasal congestion 0.11, skin thickening 0.09, loss of eyebrows 0.07"
+  },
+  {
+    "Diseases": "Chikungunya",
+    "Symptoms": "fever 0.24, severe joint pain 0.2, headache 0.18, muscle pain 0.16, rash 0.1, fatigue 0.08, nausea 0.04"
+  },
+  {
+    "Diseases": "Zika virus disease",
+    "Symptoms": "fever 0.21, rash 0.18, joint pain 0.16, conjunctivitis 0.14, muscle pain 0.11, headache 0.09, fatigue 0.07"
+  },
+  {
+    "Diseases": "Typhoid",
+    "Symptoms": "fever 0.21, headache 0.18, weakness 0.16, stomach pain 0.14, loss of appetite 0.11, diarrhea 0.09, rash 0.07"
+  },
+  {
+    "Diseases": "Septic shock",
+    "Symptoms": "fever 0.23, low blood pressure 0.19, confusion 0.17, rapid heart rate 0.15, breathlessness 0.12, decreased urine output 0.1, chills 0.04"
+  },
+  {
+    "Diseases": "Cellulitis",
+    "Symptoms": "skin redness 0.25, swelling 0.21, pain 0.17, warmth 0.13, fever 0.11, skin dimpling 0.08, blisters 0.05"
+  },
+  {
+    "Diseases": "Necrotizing fasciitis",
+    "Symptoms": "severe pain 0.21, fever 0.18, redness 0.16, swelling 0.14, dark patches 0.11, confusion 0.09, dizziness 0.07, vomiting 0.04"
+  },
+  {
+    "Diseases": "MRSA infection",
+    "Symptoms": "skin abscess or cellulitis with purulence 0.4, erythema, warmth, localized pain 0.28, fever if systemic 0.18, regional lymphangitis or lymphadenopathy 0.14"
+  },
+  {
+    "Diseases": "Lyme disease",
+    "Symptoms": "bullseye rash 0.21, fever 0.18, headache 0.16, fatigue 0.14, joint pain 0.11, swollen lymph nodes 0.09, muscle aches 0.07, chills 0.04"
+  },
+  {
+    "Diseases": "Rocky Mountain spotted fever",
+    "Symptoms": "fever 0.24, headache 0.2, rash 0.18, nausea 0.16, muscle pain 0.1, vomiting 0.08, confusion 0.04"
+  },
+  {
+    "Diseases": "Toxoplasmosis",
+    "Symptoms": "often asymptomatic 0.4, flu-like symptoms 0.22, swollen lymph nodes 0.19, headache 0.17, muscle aches 0.15"
+  },
+  {
+    "Diseases": "Toxocariasis",
+    "Symptoms": "fever 0.21, cough 0.18, abdominal pain 0.16, rash 0.14, wheezing 0.11, loss of appetite 0.09, vision problems 0.07, headache 0.04"
+  },
+  {
+    "Diseases": "Histoplasmosis",
+    "Symptoms": "fever 0.2574, chest pain 0.198, cough 0.1683, fatigue 0.1287, chills 0.1089, headache 0.0891, body aches 0.0495"
+  },
+  {
+    "Diseases": "Coccidioidomycosis",
+    "Symptoms": "fever 0.21, cough 0.18, chest pain 0.16, fatigue 0.14, night sweats 0.11, joint pain 0.09, rash 0.07, headache 0.04"
+  },
+  {
+    "Diseases": "Aspergillosis",
+    "Symptoms": "wheezing 0.25, cough 0.21, fever 0.17, chest pain 0.13, breathlessness 0.11, weight loss 0.08, fatigue 0.05"
+  },
+  {
+    "Diseases": "Candidiasis",
+    "Symptoms": "white patches 0.25, itching 0.21, redness 0.17, soreness 0.13, difficulty swallowing 0.11, vaginal discharge 0.08, rash 0.05"
+  },
+  {
+    "Diseases": "Cryptococcosis",
+    "Symptoms": "headache 0.21, fever 0.18, neck pain 0.16, nausea 0.14, confusion 0.11, sensitivity to sunlight 0.09, cough 0.07, vision changes 0.04"
+  },
+  {
+    "Diseases": "Schistosomiasis",
+    "Symptoms": "rash 0.21, fever 0.18, chills 0.16, cough 0.14, muscle aches 0.11, abdominal pain 0.09, blood in urine/stool 0.07, liver enlargement 0.04"
+  },
+  {
+    "Diseases": "Giardiasis",
+    "Symptoms": "diarrhea 0.23, stomach cramps 0.2, bloating 0.18, nausea 0.15, fatigue 0.12, weight loss 0.08, gas 0.04"
+  },
+  {
+    "Diseases": "Amebiasis",
+    "Symptoms": "stomach cramps 0.25, diarrhea 0.21, fatigue 0.17, weight loss 0.13, fever 0.11, bloody stools 0.08, gas 0.05"
+  },
+  {
+    "Diseases": "Hookworm infection",
+    "Symptoms": "itchy rash 0.21, abdominal pain 0.18, diarrhea 0.16, loss of appetite 0.14, fatigue 0.11, weight loss 0.09, anemia 0.07"
+  },
+  {
+    "Diseases": "Ascariasis",
+    "Symptoms": "abdominal pain 0.24, nausea 0.21, diarrhea 0.19, weight loss 0.13, visible worms in stool 0.1, cough 0.08, fatigue 0.05"
+  },
+  {
+    "Diseases": "Trichuriasis",
+    "Symptoms": "abdominal pain 0.25, diarrhea 0.21, bloody stools 0.17, weight loss 0.13, nausea 0.11, fatigue 0.08, rectal prolapse 0.05"
+  },
+  {
+    "Diseases": "Leptospirosis",
+    "Symptoms": "fever 0.21, headache 0.18, muscle aches 0.16, chills 0.14, red eyes 0.11, vomiting 0.09, jaundice 0.07, abdominal pain 0.04"
+  },
+  {
+    "Diseases": "Rickettsialpox",
+    "Symptoms": "fever 0.21, headache 0.18, rash 0.16, chills 0.14, muscle aches 0.11, swollen lymph nodes 0.09, eschar 0.07, sweating 0.04"
+  },
+  {
+    "Diseases": "Cat scratch disease",
+    "Symptoms": "bump at scratch site 0.22, fever 0.19, fatigue 0.17, headache 0.15, swollen lymph nodes 0.11, body aches 0.09, loss of appetite 0.07"
+  },
+  {
+    "Diseases": "Brucellosis",
+    "Symptoms": "fever 0.25, joint pain 0.21, sweating 0.17, fatigue 0.13, headache 0.11, loss of appetite 0.08, weakness 0.05"
+  },
+  {
+    "Diseases": "Rabies",
+    "Symptoms": "fever 0.21, headache 0.18, anxiety 0.16, confusion 0.14, hydrophobia 0.11, hallucinations 0.09, paralysis 0.07, excessive salivation 0.04"
+  },
+  {
+    "Diseases": "Tetanus",
+    "Symptoms": "muscle stiffness 0.24, lockjaw 0.21, difficulty swallowing 0.19, muscle spasms 0.13, fever 0.1, sweating 0.08, high blood pressure 0.05"
+  },
+  {
+    "Diseases": "Plague",
+    "Symptoms": "fever 0.23, chills 0.19, weakness 0.17, headache 0.15, swollen lymph nodes 0.12, cough 0.1, chest pain 0.04"
+  },
+  {
+    "Diseases": "Dengue fever",
+    "Symptoms": "fever 0.3, headache 0.22, muscle pain / joint pain 0.2, rash 0.14, bleeding tendency / thrombocytopenia signs 0.14"
+  }
+]
